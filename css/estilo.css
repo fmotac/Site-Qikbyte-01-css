@@ -1,0 +1,39 @@
+body{
+  text-align: center;
+  margin:auto
+}
+.menu{
+  background-color: black;
+  width: 1000px;
+  margin: auto;
+  line-height: 50px;
+  margin-bottom: 5px;
+}
+
+p a {
+  color:white
+}
+
+
+#borda {
+  border: 1px solid black;
+  width: 1000px;
+  margin: auto;
+  margin-top: 5px;
+  margin-bottom: 15px;
+}
+
+.imgRedonda{
+  border-radius:300px;
+  border: 1px solid black;
+}
+
+.usandoPadding{
+  color:white;
+  border-radius: 15px;
+  margin: auto;
+  background-color: rgb(18, 18, 19);
+  width: 800px;
+  padding: 50px;
+}
+
